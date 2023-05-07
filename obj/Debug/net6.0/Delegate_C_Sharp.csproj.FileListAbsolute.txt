@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\Delegate_C_Sharp\Delegate_C_Sharp\bin\Debug\net6.0\Delegate_C_Sharp.exe
+C:\Users\Asus\source\repos\Delegate_C_Sharp\Delegate_C_Sharp\bin\Debug\net6.0\Delegate_C_Sharp.deps.json
+C:\Users\Asus\source\repos\Delegate_C_Sharp\Delegate_C_Sharp\bin\Debug\net6.0\Delegate_C_Sharp.runtimeconfig.json
+C:\Users\Asus\source\repos\Delegate_C_Sharp\Delegate_C_Sharp\bin\Debug\net6.0\Delegate_C_Sharp.dll
+C:\Users\Asus\source\repos\Delegate_C_Sharp\Delegate_C_Sharp\bin\Debug\net6.0\Delegate_C_Sharp.pdb
+C:\Users\Asus\source\repos\Delegate_C_Sharp\Delegate_C_Sharp\obj\Debug\net6.0\Delegate_C_Sharp.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Delegate_C_Sharp\Delegate_C_Sharp\obj\Debug\net6.0\Delegate_C_Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\Delegate_C_Sharp\Delegate_C_Sharp\obj\Debug\net6.0\Delegate_C_Sharp.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\Delegate_C_Sharp\Delegate_C_Sharp\obj\Debug\net6.0\Delegate_C_Sharp.AssemblyInfo.cs
+C:\Users\Asus\source\repos\Delegate_C_Sharp\Delegate_C_Sharp\obj\Debug\net6.0\Delegate_C_Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Delegate_C_Sharp\Delegate_C_Sharp\obj\Debug\net6.0\Delegate_C_Sharp.dll
+C:\Users\Asus\source\repos\Delegate_C_Sharp\Delegate_C_Sharp\obj\Debug\net6.0\refint\Delegate_C_Sharp.dll
+C:\Users\Asus\source\repos\Delegate_C_Sharp\Delegate_C_Sharp\obj\Debug\net6.0\Delegate_C_Sharp.pdb
+C:\Users\Asus\source\repos\Delegate_C_Sharp\Delegate_C_Sharp\obj\Debug\net6.0\Delegate_C_Sharp.genruntimeconfig.cache
+C:\Users\Asus\source\repos\Delegate_C_Sharp\Delegate_C_Sharp\obj\Debug\net6.0\ref\Delegate_C_Sharp.dll
